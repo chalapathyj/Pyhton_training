@@ -1,3 +1,8 @@
+list1 = [1,2,3,4,5,6,7]
+it = list1.__iter__()
+print (next(it))
+print (next(it))
+
 class Counter:
     def __init__(self, low, high):
         self.current = low

@@ -1,0 +1,9 @@
+1 One
+2 Ten
+3 Hundred
+4 Thousand
+6 Lakh
+8 Crore
+10 Arab
+12 Kharab
+14 Neel
